@@ -12,6 +12,9 @@ The contents of this project are:
   
     ./parse_wikipedia.py data/raw_wikipedia.xml testfile
 
+### Test set
+
+The testfile contains 21 839 Wikipedia documents annotated with geographical coordinates that are located within a bounding box of the United Kingdom. This set of documents was constructed consist of only entities that can be considered as a certain location or spot.
 
 ### Questions
 
